@@ -1,11 +1,12 @@
 # Trona Pinnacles Seismic Analysis - Mathematica Notebook
 
-## Repository Overview
+## Overview
 This repository contains a **Mathematica Notebook** used for computing the **natural frequencies** of rock towers (RTs) at **Trona Pinnacles, California**. The analysis supports research on the **seismic response and failure mechanisms** of these fragile geologic features presented in **Seismic response of rock towers at the Trona Pinnacles (USA) to the 2019 Ridgecrest Earthquake Sequence: theory, models, and observations**.
 
-## Repository Contents
+## Contents
+The release contain:
 - `NaturalFrequencies.nb` – **Main Mathematica Notebook** for computing natural frequencies of the pinnacles.
-- `data/` – Directory containing input datasets (e.g., material properties, geometric parameters).
+- `data/` – Directory containing inputs (geometric parameters - meshes).
 
 
 ## Context
